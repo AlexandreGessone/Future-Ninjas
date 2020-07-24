@@ -9,7 +9,7 @@ Seu código foi elaborado utilizando as linguagens ReactJS, HTML e CSS. Em rela�
 
 ## Sobre
 
-É um projeto desenvolvido em grupo e consiste em um site em que é possível ofertar mão-de-obra ou procurar um determinado profissional dentro de categorias específicas. A inspiração vem  dos sites de ofertas de serviços como o Get Ninjas. Parte do design do projeto foi elaborado através do Material UI do Google. Além disso, para armazenar e trabalhar os dados, ele foi integrado com uma API.
+É um projeto desenvolvido em grupo e consiste em um site em que é possível ofertar mão-de-obra ou procurar um determinado profissional dentro de categorias específicas. A inspiração vem  dos sites de ofertas de serviços como o Get Ninjas. Parte do design do projeto foi elaborado através do Material UI do Google. Além disso, para armazenar e trabalhar os dados, ele foi integrado com uma API. Este projeto ainda não está finalizado, estou trabalhando para melhorar seu design e algumas funcionalidades.
 
 Por ser um projeto com ReactJS, há a necessidade do NodeJS. Com ele em 
 sua máquina, basta abrir o terminal e navegar até o repositório clonado e 
